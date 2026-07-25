@@ -1,0 +1,21 @@
+# Ignore build artifacts and temporary files  
+*.pyc  
+__pycache__/  
+
+# Ignore documentation files (optional)  
+README.md  
+LICENSE.txt  
+
+# Ignore environment configuration files (Linux only)  
+.env  
+
+# Ignore user-generated content or logs (not part of the project)  
+*.log  
+*.tmp  
+
+# Ignore virtual environment directories (Linux only)  
+venv/  
+.env/  
+
+# Ignore file system metadata files (Linux only)  
+.DS_Store
